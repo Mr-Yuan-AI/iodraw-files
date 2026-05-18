@@ -289,7 +289,7 @@
         <mxCell id="BC6ZA1rxG5ihnb2MLspH-1" value="" style="group;fontSize=14;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="60" y="120" width="660" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="BC6ZA1rxG5ihnb2MLspH-2" value="用户输入" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4A7CA6;strokeWidth=1;fontFamily=宋体;fontSize=14;fontColor=default;container=0;" vertex="1" parent="BC6ZA1rxG5ihnb2MLspH-1">
+        <mxCell id="BC6ZA1rxG5ihnb2MLspH-2" value="用户输入响应类型，因子数及其他选填内容" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4A7CA6;strokeWidth=1;fontFamily=宋体;fontSize=14;fontColor=default;container=0;" vertex="1" parent="BC6ZA1rxG5ihnb2MLspH-1">
           <mxGeometry y="84.00000000000001" width="135.88235294117646" height="42.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="BC6ZA1rxG5ihnb2MLspH-3" value="确定性筛选设计" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=#FFFFFF;fillColor=#4A7CA6;arcSize=50;" vertex="1" parent="BC6ZA1rxG5ihnb2MLspH-1">
