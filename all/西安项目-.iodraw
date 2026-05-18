@@ -340,15 +340,17 @@
           <mxGeometry x="189.26" y="160" width="150.74" height="54" as="geometry" />
         </mxCell>
         <mxCell id="BC6ZA1rxG5ihnb2MLspH-94" value="&lt;span style=&quot;font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial;&quot;&gt;试验次数n与因子数m的关系&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=#FFFFFF;fillColor=#4A7CA6;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="440.0029411764706" y="350" width="120" height="40" as="geometry" />
+          <mxGeometry x="430.0029411764706" y="350" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BC6ZA1rxG5ihnb2MLspH-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="BC6ZA1rxG5ihnb2MLspH-90" target="BC6ZA1rxG5ihnb2MLspH-94">
+        <mxCell id="BC6ZA1rxG5ihnb2MLspH-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#527da6;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="410" y="307" />
-              <mxPoint x="410" y="370" />
-              <mxPoint x="430" y="370" />
-            </Array>
+            <mxPoint x="400" y="317" as="sourcePoint" />
+            <mxPoint x="440" y="236" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BC6ZA1rxG5ihnb2MLspH-98" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=宋体;" vertex="1" connectable="0" parent="BC6ZA1rxG5ihnb2MLspH-97">
+          <mxGeometry x="0.038" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
