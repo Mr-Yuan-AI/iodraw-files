@@ -138,7 +138,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="695ApQXddm-zvsBkFPTv-3" value="&lt;span style=&quot;font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial;&quot;&gt;自定义筛选设计&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=#FFFFFF;fillColor=#4A7CA6;arcSize=50;" vertex="1" parent="rRmz79Wn_IX8S4xuVzww-3">
-          <mxGeometry x="205" y="80" width="125" height="40" as="geometry" />
+          <mxGeometry x="195" y="80" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="695ApQXddm-zvsBkFPTv-4" value="&lt;span style=&quot;font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial;&quot;&gt;用户只指定试验次数并无其他约束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=#FFFFFF;fillColor=#4A7CA6;arcSize=50;" vertex="1" parent="rRmz79Wn_IX8S4xuVzww-3">
           <mxGeometry x="195" y="160" width="125" height="45" as="geometry" />
