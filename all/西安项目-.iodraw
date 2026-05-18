@@ -397,7 +397,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BC6ZA1rxG5ihnb2MLspH-88" value="&lt;span style=&quot;font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial;&quot;&gt;超饱和设计&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=#FFFFFF;fillColor=#4A7CA6;arcSize=50;" vertex="1" parent="BC6ZA1rxG5ihnb2MLspH-1">
-          <mxGeometry x="364.0029411764706" y="82" width="116.47058823529412" height="42.00000000000001" as="geometry" />
+          <mxGeometry x="380.0029411764706" y="86" width="116.47058823529412" height="42.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="BC6ZA1rxG5ihnb2MLspH-6" value="输入试验次数n&lt;div style=&quot;font-size: 14px;&quot;&gt;因子数m&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;arcSize=40;" vertex="1" parent="1">
           <mxGeometry x="540.0047058823529" y="350" width="126.17647058823529" height="42.00000000000001" as="geometry" />
@@ -407,6 +407,9 @@
             <mxPoint x="332.6470588235294" y="505" as="sourcePoint" />
             <mxPoint x="381.1764705882353" y="452.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BC6ZA1rxG5ihnb2MLspH-90" value="&lt;span style=&quot;font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial;&quot;&gt;超饱和设计&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=#FFFFFF;fillColor=#4A7CA6;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="692.3529411764706" y="441" width="116.47058823529412" height="42.00000000000001" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
