@@ -293,7 +293,7 @@
           <mxGeometry x="-10" y="82" width="145.88" height="46" as="geometry" />
         </mxCell>
         <mxCell id="BC6ZA1rxG5ihnb2MLspH-3" value="自定义筛选设计" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=#FFFFFF;fillColor=#4A7CA6;arcSize=50;" vertex="1" parent="BC6ZA1rxG5ihnb2MLspH-1">
-          <mxGeometry x="189.26470588235296" width="126.17647058823529" height="42.00000000000001" as="geometry" />
+          <mxGeometry x="189.26470588235296" width="120" height="42.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="BC6ZA1rxG5ihnb2MLspH-13" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=宋体;fontSize=14;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#4A7CA6;" edge="1" parent="BC6ZA1rxG5ihnb2MLspH-1" source="BC6ZA1rxG5ihnb2MLspH-2" target="BC6ZA1rxG5ihnb2MLspH-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
