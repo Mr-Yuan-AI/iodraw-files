@@ -292,7 +292,7 @@
         <mxCell id="BC6ZA1rxG5ihnb2MLspH-2" value="用户输入响应类型，因子数及其他选填内容" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4A7CA6;strokeWidth=1;fontFamily=宋体;fontSize=14;fontColor=default;container=0;" vertex="1" parent="BC6ZA1rxG5ihnb2MLspH-1">
           <mxGeometry x="-10" y="82" width="145.88" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="BC6ZA1rxG5ihnb2MLspH-3" value="确定性筛选设计" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=#FFFFFF;fillColor=#4A7CA6;arcSize=50;" vertex="1" parent="BC6ZA1rxG5ihnb2MLspH-1">
+        <mxCell id="BC6ZA1rxG5ihnb2MLspH-3" value="自定义筛选设计" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=#FFFFFF;fillColor=#4A7CA6;arcSize=50;" vertex="1" parent="BC6ZA1rxG5ihnb2MLspH-1">
           <mxGeometry x="189.26470588235296" width="126.17647058823529" height="42.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="BC6ZA1rxG5ihnb2MLspH-4" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="BC6ZA1rxG5ihnb2MLspH-1" source="BC6ZA1rxG5ihnb2MLspH-6" target="BC6ZA1rxG5ihnb2MLspH-7">
@@ -337,7 +337,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BC6ZA1rxG5ihnb2MLspH-14" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#4A7CA6;strokeWidth=1;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=default;fillColor=none;" vertex="1" connectable="0" parent="BC6ZA1rxG5ihnb2MLspH-13">
+        <mxCell id="BC6ZA1rxG5ihnb2MLspH-14" value="若响应为分类因子" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#4A7CA6;strokeWidth=1;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=default;fillColor=none;" vertex="1" connectable="0" parent="BC6ZA1rxG5ihnb2MLspH-13">
           <mxGeometry x="-0.1429" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -354,6 +354,11 @@
         </mxCell>
         <mxCell id="BC6ZA1rxG5ihnb2MLspH-16" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#4A7CA6;strokeWidth=1;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=default;fillColor=none;" vertex="1" connectable="0" parent="BC6ZA1rxG5ihnb2MLspH-15">
           <mxGeometry x="-0.1143" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BC6ZA1rxG5ihnb2MLspH-58" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BC6ZA1rxG5ihnb2MLspH-15">
+          <mxGeometry x="-0.0768" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
