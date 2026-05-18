@@ -13,11 +13,10 @@
         <mxCell id="rRmz79Wn_IX8S4xuVzww-5" value="确定性筛选设计" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=#FFFFFF;fillColor=#4A7CA6;arcSize=50;" parent="rRmz79Wn_IX8S4xuVzww-3" vertex="1">
           <mxGeometry x="195" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rRmz79Wn_IX8S4xuVzww-8" value="输入试验次数n&lt;div style=&quot;font-size: 14px;&quot;&gt;因子数m&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;arcSize=40;" parent="rRmz79Wn_IX8S4xuVzww-3" vertex="1">
-          <mxGeometry x="195" y="80" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1fO7hb8E13kevaKy2D7o-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="rRmz79Wn_IX8S4xuVzww-3" source="rRmz79Wn_IX8S4xuVzww-9" target="rRmz79Wn_IX8S4xuVzww-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1fO7hb8E13kevaKy2D7o-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="rRmz79Wn_IX8S4xuVzww-3" source="rRmz79Wn_IX8S4xuVzww-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1fO7hb8E13kevaKy2D7o-6" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=宋体;" parent="1fO7hb8E13kevaKy2D7o-4" vertex="1" connectable="0">
           <mxGeometry x="-0.02" y="1" relative="1" as="geometry">
@@ -135,11 +134,14 @@
             <mxPoint x="-7" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rRmz79Wn_IX8S4xuVzww-29" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="rRmz79Wn_IX8S4xuVzww-3" source="rRmz79Wn_IX8S4xuVzww-8" target="rRmz79Wn_IX8S4xuVzww-10" edge="1">
+        <mxCell id="rRmz79Wn_IX8S4xuVzww-29" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#4A7CA6;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="rRmz79Wn_IX8S4xuVzww-3" target="rRmz79Wn_IX8S4xuVzww-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="100" as="sourcePoint" />
+            <mxPoint x="325" y="100" as="sourcePoint" />
             <mxPoint x="300" y="50" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="695ApQXddm-zvsBkFPTv-1" value="输入试验次数n&lt;div&gt;因子数m&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="rRmz79Wn_IX8S4xuVzww-3">
+          <mxGeometry x="195" y="80" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1fO7hb8E13kevaKy2D7o-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="1fO7hb8E13kevaKy2D7o-7" target="rRmz79Wn_IX8S4xuVzww-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -164,9 +166,6 @@
         </mxCell>
         <mxCell id="1fO7hb8E13kevaKy2D7o-45" value="&lt;span style=&quot;font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial;&quot;&gt;自定义筛选设计&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=#FFFFFF;fillColor=#4A7CA6;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="70" y="585" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="695ApQXddm-zvsBkFPTv-1" value="输入试验次数n&lt;div&gt;因子数m&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="570" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
