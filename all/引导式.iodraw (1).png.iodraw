@@ -141,7 +141,7 @@
           <mxGeometry x="195" y="80" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="695ApQXddm-zvsBkFPTv-2" value="用户无其他设置且分类因子水平为3" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=#FFFFFF;fillColor=#4A7CA6;arcSize=50;" vertex="1" parent="rRmz79Wn_IX8S4xuVzww-3">
-          <mxGeometry x="5" y="10" width="130" height="40" as="geometry" />
+          <mxGeometry x="10" y="70" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1fO7hb8E13kevaKy2D7o-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="1fO7hb8E13kevaKy2D7o-7" edge="1">
           <mxGeometry relative="1" as="geometry">
