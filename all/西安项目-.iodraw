@@ -296,7 +296,7 @@
           <mxGeometry x="189.26470588235296" width="126.17647058823529" height="42.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="BC6ZA1rxG5ihnb2MLspH-7" value="判断能否基于输入条件构造确定性筛选设计" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="BC6ZA1rxG5ihnb2MLspH-1">
-          <mxGeometry x="189.26" y="170" width="150.74" height="50" as="geometry" />
+          <mxGeometry x="189.26" y="160" width="150.74" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BC6ZA1rxG5ihnb2MLspH-8" value="&lt;span style=&quot;font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial;&quot;&gt;试验次数n与&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; text-decoration-thickness: initial;&quot;&gt;因子数m的关系&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;fillColor=none;" vertex="1" parent="BC6ZA1rxG5ihnb2MLspH-1">
           <mxGeometry x="420.00411764705876" y="348.25" width="135.88235294117646" height="73.5" as="geometry" />
@@ -401,6 +401,9 @@
             <mxPoint x="332.6470588235294" y="505" as="sourcePoint" />
             <mxPoint x="381.1764705882353" y="452.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BC6ZA1rxG5ihnb2MLspH-88" value="&lt;span style=&quot;font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial;&quot;&gt;超饱和设计&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4A7CA6;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=#FFFFFF;fillColor=#4A7CA6;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="682.3529411764706" y="431" width="116.47058823529412" height="42.00000000000001" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
